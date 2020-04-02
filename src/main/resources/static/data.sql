@@ -1,0 +1,13 @@
+INSERT INTO STUDENT (FIRST_NAME, LAST_NAME, PLACE_OF_BIRTH, DATE_OF_BIRTH,TRIBE,STATE_OF_ORIGIN,LOCAL_GOVERNMENT_OF_ORIGIN,NAME_OF_GUARDIAN,ADDRESS_OF_GUARDIAN, PHONE_NUMBER, REGISTRATION_DATE) VALUES (
+    'Oladejo',
+    'Ridhwan',
+    'Ibadan',
+     '1990-06-06',
+    'Yoruba',
+    'Oyo',
+    'Akinyele',
+     'Alhaji Abdulwasii',
+     'Ajorosun',
+     '08031362127',
+     '1990-09-07'
+)
